@@ -6,7 +6,7 @@
  */
 
 #include "First_Application.h"
-
+/* Define related to delay function */
 #define   _XTAL_FREQ      500000
 
 Pin_Config_Type State_Led = {
